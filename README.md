@@ -17,8 +17,6 @@ If you’ve ever looked at a photo or scanned document and wished you could quic
 
 * [Getting Started Checklist](#getting-started-checklist)
 
-* [Simple Diagram (High Level)](#simple-diagram-high-level)
-
 * [Tips for Best Results](#tips-for-best-results)
 
 * [Where to Go Next](#where-to-go-next)
